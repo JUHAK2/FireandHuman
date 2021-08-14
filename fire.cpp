@@ -16,7 +16,6 @@ int main() {
  string str;
  queue<pair<int, int>> FQ;
  queue<pair<int, int>> PQ;
- 
  cin >> y >> x;
  for(int i = 0; i < x; i ++)
  {
